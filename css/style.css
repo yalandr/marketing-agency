@@ -32,7 +32,7 @@ body {
   padding-right: 50px;
   font-family: 'Mont';
   font-size: 17px;
-  color: #282828;
+  color: #373047;
   -webkit-transition: all .4s ease-in-out;
   -moz-transition: all .4s ease-in-out;
   -ms-transition: all .4s ease-in-out;
@@ -45,7 +45,7 @@ body {
 
 /* LINKS */
 a {
-  color: #282828;
+  color: #373047;
   -webkit-transition: all .25s ease-in-out;
   -moz-transition: all .25s ease-in-out;
   -ms-transition: all .25s ease-in-out;
@@ -55,7 +55,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #282828;
+  color: #373047;
 }
 
 a:active {
@@ -113,12 +113,12 @@ button[type="submit"] strong {
   justify-content: center;
   align-content: center;
   height: 58px;
-  border: 1px solid #282828;
+  border: 1px solid #373047;
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
   padding: 0 30px;
-  background: #282828;
+  background: #373047;
   color: #fff;
 }
 button[type="submit"] strong:hover {
@@ -160,7 +160,7 @@ button[type="submit"]:hover i {
 }
 /* CUSTOM ELEMENTS */
 .color-dark {
-  background-color: #282828;
+  background-color: #373047;
 }
 .color-dark .left-side ul {
   width: 100vh;
@@ -271,12 +271,12 @@ moe
   padding-left: 0;
 }
 .pagination li.page-item.active a.page-link {
-  border: 1px solid #282828;
+  border: 1px solid #373047;
   background: none;
 }
 .pagination li.page-item a.page-link {
   border: none;
-  color: #282828;
+  color: #373047;
   font-size: 13px;
   font-weight: 600;
   border-radius: 50%;
@@ -298,7 +298,7 @@ moe
   position: fixed;
   right: calc(-100% - 200px);
   bottom: 0;
-  background: #282828;
+  background: #373047;
   z-index: 99;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -315,7 +315,7 @@ moe
   height: 0;
   border-style: solid;
   border-width: 0 200px 100vh 0;
-  border-color: transparent #282828 transparent transparent;
+  border-color: transparent #373047 transparent transparent;
   position: absolute;
   left: -200px;
   top: 0;
@@ -333,7 +333,7 @@ moe
   margin: auto;
   width: 100vw;
   height: 100vh;
-  background: #282828;
+  background: #373047;
   opacity: 1;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -360,7 +360,7 @@ moe
   height: 0;
   border-style: solid;
   border-width: 0 200px 100vh 0;
-  border-color: transparent #282828 transparent transparent;
+  border-color: transparent #373047 transparent transparent;
   position: absolute;
   left: -200px;
   top: 0;
@@ -371,7 +371,7 @@ moe
   height: 0;
   border-style: solid;
   border-width: 100vh 0 0 200px;
-  border-color: transparent transparent transparent #282828;
+  border-color: transparent transparent transparent #373047;
   position: absolute;
   right: -200px;
   top: 0;
@@ -557,7 +557,7 @@ body .slider {
 }
 
 .burger-svg__bars {
-  fill: #282828;
+  fill: #373047;
 }
 
 /* NAVIGATION MENU */
@@ -572,7 +572,7 @@ body .slider {
   right: calc(-100% + -200px);
   top: 0;
   z-index: 2;
-  background: #282828;
+  background: #373047;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -588,7 +588,7 @@ body .slider {
   height: 0;
   border-style: solid;
   border-width: 0 200px 100vh 0;
-  border-color: transparent #282828 transparent transparent;
+  border-color: transparent #373047 transparent transparent;
   position: absolute;
   left: -200px;
   top: 0;
@@ -820,7 +820,7 @@ body .slider {
 .custom-link span {
   width: 20px;
   height: 1px;
-  background: #282828;
+  background: #373047;
   display: inline-block;
   margin: 0;
 }
@@ -832,7 +832,7 @@ body .slider {
   margin-right: auto;
   border-style: solid;
   border-width: 4px 0 4px 4px;
-  border-color: transparent transparent transparent #282828;
+  border-color: transparent transparent transparent #373047;
   opacity: 1;
 }
 .custom-link:hover a {
@@ -874,13 +874,13 @@ body .slider {
   flex-wrap: wrap;
   justify-content: center;
   height: 58px;
-  border: 1px solid #282828;
+  border: 1px solid #373047;
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
   padding: 0 30px;
   padding-top: 18px;
-  background: #282828;
+  background: #373047;
   color: #fff;
 }
 .custom-btn a:hover {
@@ -1054,12 +1054,12 @@ body .slider {
   bottom: 9px;
   height: 1px;
   width: 0;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .navbar .main-menu ul li a:hover:before {
   width: 100%;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .navbar .main-menu ul li a:hover:after {
@@ -1150,12 +1150,12 @@ body .slider {
   bottom: 6px;
   height: 1px;
   width: 0;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .left-side ul li a:hover:before {
   width: 100%;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .left-side ul li a:hover:after {
@@ -1181,7 +1181,7 @@ body .slider {
   height: 560px;
   display: flex;
   flex-wrap: wrap;
-  background: #282828;
+  background: #373047;
   margin-right: -50px;
   overflow: hidden;
   position: relative;
@@ -1402,7 +1402,7 @@ body .slider {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background: #282828;
+  background: #373047;
 }
 .page-header .video-bg {
   width: 100%;
@@ -1621,7 +1621,7 @@ img {
   filter: invert(100%);
 }
 .featured-services figure:hover figcaption {
-  color: #282828;
+  color: #373047;
 }
 .featured-services figure img {
   opacity: 0.1;
@@ -1706,12 +1706,12 @@ img {
   bottom: -1px;
   height: 1px;
   width: 0;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .recent-news .content-box:hover:before {
   width: 100%;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .recent-news .content-box:hover:after {
@@ -2011,10 +2011,10 @@ img {
   padding: 40px;
   margin-top: 20px;
   margin-bottom: 40px;
-  background: #282828;
+  background: #373047;
   position: relative;
   color: #fff;
-  background: url(../images/quote-bg.svg) left top no-repeat #282828;
+  background: url(../images/quote-bg.svg) left top no-repeat #373047;
   background-size: contain;
 }
 .post-body blockquote p {
@@ -2125,7 +2125,7 @@ img {
   content: "";
   width: 100%;
   height: 3px;
-  background: #282828;
+  background: #373047;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -2166,7 +2166,7 @@ img {
   content: "";
   width: 30%;
   height: 3px;
-  background: #282828;
+  background: #373047;
   position: absolute;
   left: -25px;
   bottom: 0;
@@ -2181,7 +2181,7 @@ img {
   font-weight: 600;
   font-size: 14px;
   color: #fff;
-  background: #282828;
+  background: #373047;
   padding: 0 30px;
 }
 .blog .sidebar .widget .categories {
@@ -2201,7 +2201,7 @@ img {
   height: 5px;
   float: left;
   border-radius: 50%;
-  background: #282828;
+  background: #373047;
   margin-right: 15px;
   margin-top: 11px;
 }
@@ -2230,8 +2230,8 @@ img {
 }
 .blog .sidebar .widget .tags li a:hover {
   text-decoration: none;
-  border: 1px solid #282828;
-  background: #282828;
+  border: 1px solid #373047;
+  background: #373047;
   color: #fff;
 }
 .blog .sidebar .widget .works {
@@ -2562,12 +2562,12 @@ img {
   bottom: 8px;
   height: 1px;
   width: 0;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .footer .sub-footer ul li a:hover:before {
   width: 100%;
-  background: #282828;
+  background: #373047;
   transition: width .25s ease;
 }
 .footer .sub-footer ul li a:hover:after {
@@ -2886,5 +2886,5 @@ img {
     font-weight: 600;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #282828;
+    color: #373047;
 }
